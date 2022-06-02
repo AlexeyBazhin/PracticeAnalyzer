@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.CodeFixes\bin\Debug\netstandard2.0\PracticeAnalyzer.CodeFixes.deps.json
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.CodeFixes\bin\Debug\netstandard2.0\PracticeAnalyzer.CodeFixes.dll
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.CodeFixes\bin\Debug\netstandard2.0\PracticeAnalyzer.CodeFixes.pdb
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.CodeFixes\bin\Debug\netstandard2.0\PracticeAnalyzer.dll
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.CodeFixes\bin\Debug\netstandard2.0\PracticeAnalyzer.pdb
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.CodeFixes\obj\Debug\netstandard2.0\PracticeAnalyzer.CodeFixes.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.CodeFixes\obj\Debug\netstandard2.0\PracticeAnalyzer.CodeFixResources.resources
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.CodeFixes\obj\Debug\netstandard2.0\PracticeAnalyzer.CodeFixes.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.CodeFixes\obj\Debug\netstandard2.0\PracticeAnalyzer.CodeFixes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.CodeFixes\obj\Debug\netstandard2.0\PracticeAnalyzer.CodeFixes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.CodeFixes\obj\Debug\netstandard2.0\PracticeAnalyzer.CodeFixes.AssemblyInfo.cs
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.CodeFixes\obj\Debug\netstandard2.0\PracticeAnalyzer.CodeFixes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.CodeFixes\obj\Debug\netstandard2.0\PracticeAnalyzer.CodeFixes.csproj.CopyComplete
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.CodeFixes\obj\Debug\netstandard2.0\PracticeAnalyzer.CodeFixes.dll
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.CodeFixes\obj\Debug\netstandard2.0\PracticeAnalyzer.CodeFixes.pdb

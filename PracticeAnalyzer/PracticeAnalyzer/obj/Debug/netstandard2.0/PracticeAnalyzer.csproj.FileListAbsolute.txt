@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer\bin\Debug\netstandard2.0\PracticeAnalyzer.deps.json
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer\bin\Debug\netstandard2.0\PracticeAnalyzer.dll
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer\bin\Debug\netstandard2.0\PracticeAnalyzer.pdb
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer\obj\Debug\netstandard2.0\PracticeAnalyzer.Resources.resources
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer\obj\Debug\netstandard2.0\PracticeAnalyzer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer\obj\Debug\netstandard2.0\PracticeAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer\obj\Debug\netstandard2.0\PracticeAnalyzer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer\obj\Debug\netstandard2.0\PracticeAnalyzer.AssemblyInfo.cs
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer\obj\Debug\netstandard2.0\PracticeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer\obj\Debug\netstandard2.0\PracticeAnalyzer.dll
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer\obj\Debug\netstandard2.0\PracticeAnalyzer.pdb
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer\obj\Debug\netstandard2.0\PracticeAnalyzer.csproj.AssemblyReference.cache

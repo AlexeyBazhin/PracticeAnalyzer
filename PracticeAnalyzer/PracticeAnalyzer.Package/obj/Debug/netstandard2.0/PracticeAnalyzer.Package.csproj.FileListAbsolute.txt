@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.Package\bin\Debug\netstandard2.0\tools\install.ps1
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.Package\bin\Debug\netstandard2.0\tools\uninstall.ps1
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.Package\bin\Debug\netstandard2.0\PracticeAnalyzer.Package.deps.json
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.Package\bin\Debug\netstandard2.0\PracticeAnalyzer.Package.dll
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.Package\bin\Debug\netstandard2.0\PracticeAnalyzer.Package.pdb
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.Package\bin\Debug\netstandard2.0\PracticeAnalyzer.CodeFixes.dll
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.Package\bin\Debug\netstandard2.0\PracticeAnalyzer.dll
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.Package\bin\Debug\netstandard2.0\PracticeAnalyzer.CodeFixes.pdb
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.Package\bin\Debug\netstandard2.0\PracticeAnalyzer.pdb
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.Package\obj\Debug\netstandard2.0\PracticeAnalyzer.Package.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.Package\obj\Debug\netstandard2.0\PracticeAnalyzer.Package.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.Package\obj\Debug\netstandard2.0\PracticeAnalyzer.Package.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.Package\obj\Debug\netstandard2.0\PracticeAnalyzer.Package.AssemblyInfo.cs
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.Package\obj\Debug\netstandard2.0\PracticeAnalyzer.Package.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.Package\obj\Debug\netstandard2.0\PracticeAnalyzer.Package.csproj.CopyComplete
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.Package\obj\Debug\netstandard2.0\PracticeAnalyzer.Package.dll
+C:\Users\user\Desktop\PracticeAnalyzer\PracticeAnalyzer\PracticeAnalyzer.Package\obj\Debug\netstandard2.0\PracticeAnalyzer.Package.pdb
